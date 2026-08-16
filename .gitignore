@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasets
+data/
+datasets/
+*.zip
+
+# Model weights and checkpoints
+checkpoints/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Operating system
+.DS_Store
+Thumbs.db
